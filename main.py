@@ -1,1 +1,1 @@
-<code class="language-python" style="white-space:pre-wrap;word-break:break-all">print("Hello world")</code>
+print("Hello world")
